@@ -36,24 +36,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Sort_algorithms.Recursion" />
       <recent name="Sort_algorithms" />
+      <recent name="Sort_algorithms.Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Factorial_Algorithm_Left_to_Right">
-    <configuration name="Bubble_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Bubble_sort" />
-      <module name="DataStructures_And_Algorithms_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort_algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Merge_Sort">
     <configuration name="Factorial_Algorithm_Left_to_Right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Recursion.Factorial_Algorithm_Left_to_Right" />
       <module name="DataStructures_And_Algorithms_Java" />
@@ -69,6 +56,19 @@
     </configuration>
     <configuration name="Insertion_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Insertion_sort" />
+      <module name="DataStructures_And_Algorithms_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sort_algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Merge_Sort" />
       <module name="DataStructures_And_Algorithms_Java" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge_Sort" />
         <item itemvalue="Application.Factorial_Algorithm_Left_to_Right" />
         <item itemvalue="Application.Shell_sort" />
         <item itemvalue="Application.Insertion_sort" />
         <item itemvalue="Application.Selection_sort" />
-        <item itemvalue="Application.Bubble_sort" />
       </list>
     </recent_temporary>
   </component>
