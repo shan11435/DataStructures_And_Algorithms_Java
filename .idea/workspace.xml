@@ -40,7 +40,7 @@
       <recent name="Sort_algorithms.Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Merge_Sort">
+  <component name="RunManager" selected="Application.Quick_Sort">
     <configuration name="Factorial_Algorithm_Left_to_Right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Recursion.Factorial_Algorithm_Left_to_Right" />
       <module name="DataStructures_And_Algorithms_Java" />
@@ -80,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selection_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Selection_sort" />
+    <configuration name="Quick_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Quick_Sort" />
       <module name="DataStructures_And_Algorithms_Java" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quick_Sort" />
         <item itemvalue="Application.Merge_Sort" />
         <item itemvalue="Application.Factorial_Algorithm_Left_to_Right" />
         <item itemvalue="Application.Shell_sort" />
         <item itemvalue="Application.Insertion_sort" />
-        <item itemvalue="Application.Selection_sort" />
       </list>
     </recent_temporary>
   </component>
