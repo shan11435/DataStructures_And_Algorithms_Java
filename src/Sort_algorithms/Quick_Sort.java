@@ -5,7 +5,7 @@ public class Quick_Sort {
     {
         int[] array = {20, 35, -15, 7, 55, 1, -22};
 
-        quickSort(array, 0, 7);
+        quickSort(array, 0, array.length);
 
         for(int i = 0; i < array.length; i++)
         {

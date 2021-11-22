@@ -40,13 +40,13 @@
       <recent name="Sort_algorithms.Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Quick_Sort">
-    <configuration name="Factorial_Algorithm_Left_to_Right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Recursion.Factorial_Algorithm_Left_to_Right" />
+  <component name="RunManager" selected="Application.Counting_Sort">
+    <configuration name="Counting_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Counting_Sort" />
       <module name="DataStructures_And_Algorithms_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sort_algorithms.Recursion.*" />
+          <option name="PATTERN" value="Sort_algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insertion_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Insertion_sort" />
+    <configuration name="Factorial_Algorithm_Left_to_Right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Recursion.Factorial_Algorithm_Left_to_Right" />
       <module name="DataStructures_And_Algorithms_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sort_algorithms.*" />
+          <option name="PATTERN" value="Sort_algorithms.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Counting_Sort" />
         <item itemvalue="Application.Quick_Sort" />
         <item itemvalue="Application.Merge_Sort" />
         <item itemvalue="Application.Factorial_Algorithm_Left_to_Right" />
         <item itemvalue="Application.Shell_sort" />
-        <item itemvalue="Application.Insertion_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -126,5 +126,15 @@
       <updated>1637008699781</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
