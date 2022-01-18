@@ -40,7 +40,7 @@
       <recent name="Sort_algorithms.Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Counting_Sort">
+  <component name="RunManager" selected="Application.Radix_Sort">
     <configuration name="Counting_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Counting_Sort" />
       <module name="DataStructures_And_Algorithms_Java" />
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shell_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Shell_sort" />
+    <configuration name="Radix_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_algorithms.Radix_Sort" />
       <module name="DataStructures_And_Algorithms_Java" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Radix_Sort" />
         <item itemvalue="Application.Counting_Sort" />
         <item itemvalue="Application.Quick_Sort" />
         <item itemvalue="Application.Merge_Sort" />
         <item itemvalue="Application.Factorial_Algorithm_Left_to_Right" />
-        <item itemvalue="Application.Shell_sort" />
       </list>
     </recent_temporary>
   </component>
